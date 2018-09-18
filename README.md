@@ -5,7 +5,7 @@ Download and save character illustration from sen no kiseki 4 official website, 
 ## Requirements
 ### Python Version
 - python 3.0
-### Module Depedency
+### Module Dependency
 - requests
 - BeatifulSoup
 
