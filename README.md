@@ -1,11 +1,15 @@
 # Download Sen No Kiseki Character Illustration
 ## Summary
 Download and save character illustration from sen no kiseki 4 official website, <br>
-[Legend of Hero: Trails of Cold Steel - The End of Saga.](https://www.falcom.co.jp/sen4)
+[The Legend of Heros: Trails of Cold Steel - The End of Saga.](https://www.falcom.co.jp/sen4)
 ## Requirements
 ### Python Version
-- python 3.0
+![python3.5][python35]
 ### Module Dependency
 - requests
 - BeatifulSoup
+## Illustration Preview
+### Rean Schwazer
+
+[python35]: https://img.shields.io/badge/python-3.5-yellow.svg
 
